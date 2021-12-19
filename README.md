@@ -1,3 +1,7 @@
+<p align="center">
+  <img="https://raw.githubusercontent.com/felipeodorcyk/Data_Science_Portfolio/main/18298.jpg"
+</p>
+
 # Felipe Kawa Odorcyk 
 [LinkedIn](www.linkedin.com/in/felipe-odorcyk)
 
