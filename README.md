@@ -1,6 +1,4 @@
-<p align="center">
-  <img="https://raw.githubusercontent.com/felipeodorcyk/Data_Science_Portfolio/main/18298.jpg"
-</p>
+![alt text](https://raw.githubusercontent.com/felipeodorcyk/Data_Science_Portfolio/main/18298.jpg)
 
 # Felipe Kawa Odorcyk 
 [LinkedIn](www.linkedin.com/in/felipe-odorcyk)
