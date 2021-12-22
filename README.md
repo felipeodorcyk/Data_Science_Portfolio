@@ -17,3 +17,9 @@ and finding the best way to respond with data. With the intention of migrating t
 ## Projects
 
 * [Churn Prediction](https://github.com/felipeodorcyk/Data_Science_Portfolio/blob/main/TelecomUsers.ipynb)
+
+Techniques : EDA, Handling of unbalanced dataset, cross-validation, classification algorithms, model optimization.
+
+* [History of Alzheimer's disease research told by Natural Languade Processing](https://github.com/felipeodorcyk/Data_Science_Portfolio/blob/main/AlzheimerDiseaseProject.ipynb)
+
+Techniques: NLP, TF-IDF, Dimensionality Reduction, Clustering, Association Rule Learning, DataViz.
