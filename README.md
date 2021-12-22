@@ -1,4 +1,5 @@
 ![alt text](https://raw.githubusercontent.com/felipeodorcyk/Data_Science_Portfolio/main/18298.jpg)
+<a href='https://br.freepik.com/fotos-vetores-gratis/fundo'>Created by starline - Available at: br.freepik.com</a>
 
 # Felipe Kawa Odorcyk 
 [LinkedIn](www.linkedin.com/in/felipe-odorcyk)
