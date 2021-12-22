@@ -16,4 +16,4 @@ and finding the best way to respond with data. With the intention of migrating t
 
 ## Projects
 
-* **Churn prediction**
+* [Churn Prediction](https://github.com/felipeodorcyk/Data_Science_Portfolio/blob/main/TelecomUsers.ipynb)
