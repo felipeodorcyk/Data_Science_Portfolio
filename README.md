@@ -15,6 +15,9 @@ and finding the best way to respond with data. With the intention of migrating t
 * SPSS
 
 ## Projects
+* [PhD Research](https://pubmed.ncbi.nlm.nih.gov/32304750/)
+
+In short, in my PhD research I worked with a disease called neonatal hypoxia ischemia, which is a kind of neonatal brain stroke. We performed PET scan neuroimaging during the first days post-injury (neonatal period) and used regression techniques to show the potential of brain imaging for predicting brain damage and cognitive deficits observed in adulthood. Click in the link to see the publication.
 
 * [Churn Prediction](https://colab.research.google.com/github/felipeodorcyk/Data_Science_Portfolio/blob/main/TelecomUsers.ipynb)
 
