@@ -2,7 +2,7 @@
 <a href='https://br.freepik.com/fotos-vetores-gratis/fundo'>Created by starline - Available at: br.freepik.com</a>
 
 # Felipe Kawa Odorcyk 
-[LinkedIn](www.linkedin.com/in/felipe-odorcyk)
+[LinkedIn](www.linkedin.com/in/felipe-odorcyk)            [Medium](https://medium.com/@felipe.odorcyk)
 
 Biologist, with MSc and PhD in the Neuroscience field. During this time I participated in all stages of scientific research, especially seeking relevant questions
 and finding the best way to respond with data. With the intention of migrating to the Data Science field, in 2020 I started to study programing languages such as SQL and Python. Currently, I am enrolled in the Data Science and Artificial Intelligence specialization program at PUCRS.
