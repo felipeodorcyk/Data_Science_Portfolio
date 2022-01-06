@@ -10,6 +10,8 @@ and finding the best way to respond with data. With the intention of migrating t
 ## Background
 * Python (numpy, pandas, sklearn, seaborn, plotly)
 
+See [Python algorithmic exercises](https://github.com/felipeodorcyk/Codility_Python_Exercises) and [Python Tic-Tac-Toe game](https://github.com/felipeodorcyk/Tic_Tac_Toe_Python)!
+
 * SQL (MySQL, PostgreSQL)
 
 * SPSS
