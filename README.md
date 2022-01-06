@@ -19,7 +19,7 @@ See [Python algorithmic exercises](https://github.com/felipeodorcyk/Codility_Pyt
 ## Projects
 * [PhD Research](https://pubmed.ncbi.nlm.nih.gov/32304750/)
 
-In short, in my PhD research I worked with a disease called neonatal hypoxia ischemia, which is a kind of neonatal brain stroke. We performed PET scan neuroimaging during the first days post-injury (neonatal period) and used regression techniques to show the potential of brain imaging for predicting brain damage and cognitive deficits observed in adulthood. Click in the link to see the publication.
+In short, in my PhD research I worked with a disease called neonatal hypoxia ischemia, which is a kind of neonatal brain stroke. We performed PET scan neuroimaging during the first days post-injury (neonatal period) and used regression techniques to show the potential of brain imaging for predicting brain damage and cognitive deficits observed in adulthood. Click in the title link to see the peer-reviewed publication or, for a less scientific approach, you can check out the [Medium post](https://medium.com/@felipe.odorcyk/predicting-long-term-brain-damage-after-brain-injury-with-neuroimaging-b50bf2469d8c) about it.
 
 * [Churn Prediction](https://colab.research.google.com/github/felipeodorcyk/Data_Science_Portfolio/blob/main/TelecomUsers.ipynb)
 
