@@ -25,6 +25,6 @@ In short, in my PhD research I worked with a disease called neonatal hypoxia isc
 
 Techniques : EDA, Handling of unbalanced dataset, cross-validation, classification algorithms, model optimization.
 
-* [History of Alzheimer's disease research told by Natural Languade Processing](https://colab.research.google.com/github/felipeodorcyk/Data_Science_Portfolio/blob/main/AlzheimerDiseaseProject.ipynb)
+* [History of Alzheimer's disease research told by Natural Language Processing](https://colab.research.google.com/github/felipeodorcyk/Data_Science_Portfolio/blob/main/AlzheimerDiseaseProject.ipynb)
 
 Techniques: NLP, TF-IDF, Dimensionality Reduction, Clustering, Association Rule Learning, DataViz.
